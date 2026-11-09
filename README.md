@@ -1,6 +1,6 @@
 ## Hi there, I'm Eduardo Martins 👋
 
-Currently a Computer Science Student
+Currently a Computer Science Student that likes to do reverse engineering in the free time and employed as a web developer (Node.js, CRUD)
 
 
 <!--
