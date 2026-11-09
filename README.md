@@ -3,7 +3,7 @@
 Currently a Computer Science Student that likes to do reverse engineering in the free time and employed as a web developer (Node.js, CRUD)
 ---
 
-**Tecnologies:
+**Tecnologies:**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
@@ -12,13 +12,13 @@ Currently a Computer Science Student that likes to do reverse engineering in the
 
 ---
 
-**Projects:
+**Projects:**
 
-Gym-App-React: A Gym Notes app made in React.
+**Gym-App-React:** A Gym Notes app made in React.
 
-Magnetic Note: A letterbox kinda app made in Next.js and connected to a personal database (Supabase).
+**Magnetic Note:** A letterbox kinda app made in Next.js and connected to a personal database (Supabase).
 
-Ketsui: A Manga Reader for IOS currently in prod, made with Next.js, External APIs and personal database.
+**Ketsui:** A Manga Reader for IOS currently in prod, made with Next.js, External APIs and personal database.
 
 
 <!--
