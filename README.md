@@ -1,6 +1,7 @@
 ## Hi there, I'm Eduardo Martins 👋
 
 Currently a Computer Science Student that likes to do reverse engineering in the free time and employed as a web developer (Node.js, CRUD)
+---
 
 Tecnologies:
 <p align="left">
@@ -8,6 +9,7 @@ Tecnologies:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
 </p>
+---
 
 Projects:
 
