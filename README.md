@@ -20,6 +20,12 @@ Currently a Computer Science Student that likes to do reverse engineering in the
 
 **Ketsui:** A Manga Reader for IOS currently in prod, made with Next.js, External APIs and personal database.
 
+---
+
+**Contact:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/meduardo2604/)
+
 
 <!--
 **Santins26/Santins26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
