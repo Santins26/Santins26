@@ -10,8 +10,11 @@ Tecnologies:
 </p>
 
 Projects:
+
 Gym-App-React: A Gym Notes app made in React.
+
 Magnetic Note: A letterbox kinda app made in Next.js and connected to a personal database (Supabase).
+
 Ketsui: A Manga Reader for IOS currently in prod, made with Next.js, External APIs and personal database.
 
 
